@@ -1,7 +1,8 @@
 .sidebar {
   width: 30%;
   float: left;
-  background-image: 
+  background-image: url(../images/ping-pong2.jpg);
+color: chartreuse;
 }
 #result {
     display: none;
@@ -12,4 +13,3 @@ h1{
 	background-image: url(../images/ping-pong1.jpg);
 	color: yellow;
 }
-  
