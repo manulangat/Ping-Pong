@@ -1,9 +1,15 @@
 .sidebar {
   width: 30%;
   float: left;
-  background-color: yellow;
+  
 }
 #result {
     display: none;
   }
+h1{
+	text-align: center;
+	padding: 80px;
+	background-image: url(../images/ping-pong1.jpg);
+	color: yellow;
+}
   
